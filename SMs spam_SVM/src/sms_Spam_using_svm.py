@@ -238,14 +238,4 @@ print("✅ Model saved as 'svm_spam_classifier.pkl'")
 # loaded_model.predict(new_data)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
